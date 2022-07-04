@@ -1,2 +1,1 @@
-# ML In Ondrive
- starting
+Forest Fire Prediction (FFP) through ML feature. This happend by the dataset of a forest which cosist the oxygen level and temperature of that specific place. I have done this with on of my senior brother Asif vai
